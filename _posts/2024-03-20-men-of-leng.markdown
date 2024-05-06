@@ -3,6 +3,7 @@ layout: post
 title:  "Men of Leng"
 date:   2024-03-20 13:39:10 -0700
 categories: tcg sorcery
+permalink: men-of-leng
 ---
 
 <style>
